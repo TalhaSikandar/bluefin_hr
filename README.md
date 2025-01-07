@@ -57,7 +57,7 @@ The framework consists of:
 
 ### 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/TalhaSikandar/bluefin_hr
    cd hot_reloading
    ```
 
